@@ -5,7 +5,7 @@ Ordinary dotnet ASP.NET Core template converted to F# language.
 
 # To install a template from NuGet.org: 
   
- dotnet new -u ASP.NET_MVC_Core.FSharp.React
+ dotnet new -i ASP.NET_MVC_Core.FSharp.React
   
 # To create new project
   
